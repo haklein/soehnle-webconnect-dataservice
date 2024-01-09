@@ -1,5 +1,5 @@
 # soehnle-webconnect-dataservice
-This php script attempts to emulate the terminated Soehnle/Leifheit data service for the Webconnect body scales like the 063340. Unfortunately Leifheit/Soehnle made a business decision to turn of the mysoehnle service on very short notice. A not-so-very-good offer was made to replace the scale with their new module at some discount. I don't want to trash a well functioning scale just because of their planned obsolescence. 
+This php script attempts to emulate the terminated Soehnle/Leifheit data service for the Webconnect body scales like the 063340. Unfortunately Leifheit/Soehnle made a business decision to turn off the mysoehnle service on very short notice. A not-so-very-good offer was made to replace the scale with their new model at some discount. I don't want to trash a well functioning scale just because of their planned obsolescence. 
 
 The return strings have been determined via tcpdump and from https://github.com/biggaeh/bathroom_scales
 
